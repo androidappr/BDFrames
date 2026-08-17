@@ -43,59 +43,5 @@
       "frame",
       "celebration"
     ]
-  },
-  {
-    "id": "6",
-    "image_url": "https://raw.githubusercontent.com/androidappr/BDFrames/main/bd/images/6.png",
-    "tags": [
-      "birthday",
-      "love",
-      "pro"
-    ]
-  },
-  {
-    "id": "7",
-    "image_url": "https://raw.githubusercontent.com/androidappr/BDFrames/main/bd/images/7.png",
-    "tags": [
-      "birthday",
-      "frame",
-      "love"
-    ]
-  },
-  {
-    "id": "8",
-    "image_url": "https://raw.githubusercontent.com/androidappr/BDFrames/main/bd/images/8.png",
-    "tags": [
-      "birthday",
-      "love",
-      "pro"
-    ]
-  },
-  {
-    "id": "9",
-    "image_url": "https://raw.githubusercontent.com/androidappr/BDFrames/main/bd/images/9.png",
-    "tags": [
-      "birthday",
-      "love",
-      "celebration"
-    ]
-  },
-  {
-    "id": "11",
-    "image_url": "https://raw.githubusercontent.com/androidappr/BDFrames/main/bd/images/11.png",
-    "tags": [
-      "birthday",
-      "frame",
-      "pro"
-    ]
-  },
-  {
-    "id": "12",
-    "image_url": "https://raw.githubusercontent.com/androidappr/BDFrames/main/bd/images/12.png",
-    "tags": [
-      "birthday",
-      "love",
-      "celebration"
-    ]
   }
 ]
