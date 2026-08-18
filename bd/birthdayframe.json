@@ -41,7 +41,6 @@
     "tags": [
       "Birthday",
       "Popular",
-      "Congratulations"
     ]
   },
   {
@@ -50,7 +49,6 @@
     "tags": [
       "Birthday",
       "Popular",
-      "Congratulations"
     ]
   },
   {
@@ -59,7 +57,6 @@
     "tags": [
       "Birthday",
       "Cake",
-      "Congratulations"
     ]
   },
   {
@@ -181,7 +178,7 @@
     "tags": [
       "Birthday",
       "Cake",
-      "Congratulations"
+      ""
     ]
   },
   {
@@ -191,16 +188,6 @@
       "Birthday",
       "Cake",
       "Love"
-    ]
-  },
-  {
-    "id": "22",
-    "image_url": "https://cdn.jsdelivr.net/gh/androidappr/BDFrames@main/bd/images/bd_cake_22.webp",
-    "tags": [
-      "Birthday",
-      "Cake",
-      "Pro",
-      "Anniversary"
     ]
   },
   {
@@ -279,7 +266,6 @@
     "tags": [
       "Birthday",
       "Popular",
-      "Congratulations"
     ]
   },
   {
@@ -313,7 +299,6 @@
     "image_url": "https://cdn.jsdelivr.net/gh/androidappr/BDFrames@main/bd/images/frame_6.webp",
     "tags": [
       "Birthday",
-      "Congratulations"
     ]
   },
   {
@@ -364,7 +349,6 @@
     "tags": [
       "Birthday",
       "Popular",
-      "Congratulations"
     ]
   },
   {
@@ -500,7 +484,6 @@
       "Birthday",
       "Cake",
       "Pro",
-      "Anniversary"
     ]
   },
   {
@@ -545,7 +528,6 @@
     "tags": [
       "Birthday",
       "Popular",
-      "Congratulations"
     ]
   },
   {
